@@ -15,3 +15,10 @@ Console.WriteLine($"{number1} * {number2} = {number1*number2}");
 Console.WriteLine($"{number1} / {number2} = {number1/number2}");
 
 Console.WriteLine($"{number1} % {number2} = {number1%number2}");
+
+System.Console.WriteLine($"variable number1 is greater than variable number2 {number1 > number2}");
+System.Console.WriteLine($"variable number1 is greater or equal than variable number2 {number1 >= number2}");
+System.Console.WriteLine($"variable number1 is less than variable number2 {number1 < number2}");
+System.Console.WriteLine($"variable number1 is less or equal than variable number2 {number1 <= number2}");
+System.Console.WriteLine($"variable number1 is equal variable number2 {number1 == number2}");
+System.Console.WriteLine($"variable number1 is not equal variable number2 {number1 != number2}");
